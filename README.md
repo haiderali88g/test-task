@@ -30,7 +30,15 @@ Ensure you have the following software installed on your machine:
 
    `npm install`
 
-3. **Start the server:**
+3. **Implement backend logic:**
+
+- Set up Express server
+- Create routes for job management
+- Create controllers for job management
+- Implement job services for processing and status update logic
+  (Time spent: 4 hours)
+
+4. **Start the server:**
 
    `npm run dev`
 
@@ -48,7 +56,15 @@ The backend server should now be running.
 
    `npm install`
 
-3. **Start the React app:**
+3. **Implement frontend logic:**
+
+- Set up React project
+- Create components for job management
+- Implement services for processing and status update logic
+- Implement API integration to interact with backend
+  (Time spent: 3 hours)
+
+4. **Start the React app:**
 
    `npm run start`
 
